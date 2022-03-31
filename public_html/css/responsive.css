@@ -1,0 +1,98 @@
+@media(min-width: 576px){
+    /*SM Breakpoint*/
+    
+    
+    
+}
+
+
+@media(min-width: 768px){
+    /*MD Breakpoint*/
+    
+       .offer h4{
+ margin-bottom: 68px;
+} 
+
+.offer{
+    margin-bottom: 64px;
+}
+
+.gallery{
+    margin-bottom: 58px;
+}
+
+.testimonials .carousel-item .d-flex p{
+    margin-bottom: 78px;
+}
+
+.slider{
+    margin-bottom: 63px;
+}
+    
+}
+
+
+@media(min-width: 992px){
+    /*LG Breakpoint*/
+    
+    .offer h4{
+ margin-bottom: 88px;
+}
+
+.offer{
+    margin-bottom: 84px;
+}
+
+.about .about-content{
+      max-width: 564.5px;
+       padding: 30px 30px 30px 50px;
+}
+
+.gallery{
+    margin-bottom: 68px;
+}
+
+.testimonials .carousel-item .d-flex p{
+    margin-bottom: 88px;
+}
+
+.slider{
+    margin-bottom: 73px;
+}
+    
+}
+
+
+@media(min-width: 1200px){
+    /*XL Breakpoint*/
+    
+   .offer{
+    margin-bottom: 94px;
+}
+   
+.about .about-content{
+      max-width: 564.5px;
+      padding-right: 0;
+}
+
+.gallery{
+    margin-bottom: 78px;
+}
+
+.testimonials .carousel-item .d-flex p{
+    margin-bottom: 98px;
+}
+
+.slider{
+    margin-bottom: 83px;
+}
+    
+}
+
+
+@media(min-width: 1400px){
+    /*XXL Breakpoint*/
+    
+    
+    
+}
